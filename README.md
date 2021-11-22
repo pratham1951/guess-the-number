@@ -1,4 +1,4 @@
-# guess_the_number
+# Guess the number
 Project 1: Number guessing Game
 
 Write a program that generates a random number and asks the player to Guess it. If the player's Guess is higher than the actual number the program displays "Lower number please". Similarly if the user's guess is too low, the program prints " Higher number please"
